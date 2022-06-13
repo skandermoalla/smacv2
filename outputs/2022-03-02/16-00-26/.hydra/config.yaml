@@ -1,0 +1,5 @@
+dataset_path: /Users/benellis/src/smac/supervised_obs_and_states
+batch_size: 256
+hidden_features: 512
+lr: 0.0001
+epochs: 100
